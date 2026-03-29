@@ -1,0 +1,24 @@
+# ===== AI MODEL =====
+app/models/
+models/
+
+# ===== DATA =====
+data/
+*.csv
+
+# ===== FILE MODEL =====
+*.bin
+*.pt
+*.pkl
+*.safetensors
+
+# ===== CACHE =====
+__pycache__/
+*.pyc
+
+# ===== UPLOAD =====
+uploads/
+
+# ===== ENV =====
+venv/
+.env
